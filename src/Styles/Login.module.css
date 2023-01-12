@@ -1,0 +1,16 @@
+.form{
+    text-align: center;
+     border: 1px solid red;
+     height: auto;
+     width:fit-content;
+     margin:auto;
+     box-shadow: 10px 10px 5px rgb(131, 133, 133);
+     padding: 2%;
+     border-radius: 5%;
+     justify-content: center;
+ }
+ .form label{
+     font-weight: bold;
+     color: red;
+ }
+ 
